@@ -7,11 +7,14 @@
 </li> 
 </p>
 <p>
-  <p>💻 I have a passion for technology through applying various side projects that use a variety of technologies,</p>
-  <P>&nbsp;&nbsp;&nbsp; which help me expand my knowledge and stay up to date with the latest trends in DevOps  technologies and practices.
+  <p>
+    <li>💻 I have a passion for technology through applying various side projects that use a variety of technologies,</p>
+  <P>&nbsp;&nbsp;&nbsp; which help me expand my knowledge and stay up to date with the latest trends in DevOps  technologies and practices. </li>
 </P>
 </p>
-<p>💬 Ask me about anything, and I will be happy to help.</p>
+<p>
+  <li>💬 Ask me about anything, and I will be happy to help.</li>
+</p>
 <h3>🚀 Review DevOps End-to-End Projects:</h3>
 <ul>
   <li>📃 <a href="https://github.com/yourusername/Data-Migration-Project" target="_blank"> Project1</a></li>
