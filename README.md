@@ -32,7 +32,8 @@
 <h3 align="left"> 🛠️ Languages and Tools:</h3>
 
 <p align="left">
-  <b>Linux</b> | <b>Bash</b> | <b>Python</b> | <b>Ansible</b> | <b>Docker</b> | <b>Kubernetes</b> | <b>AWS</b> | <b>AWS CLI</b> | <b>Terraform</b> | <b>Git, GitHub</b> | <b>GitHub Actions</b> | <b>AWS CI/CD Services</b> | <b>ArgoCD</b>
+  <li>
+  <b>Linux</b> | <b>Bash</b> | <b>Python</b> | <b>Ansible</b> | <b>Docker</b> | <b>Kubernetes</b> | <b>AWS</b> | <b>AWS CLI</b> | <b>Terraform</b> | <b>Git, GitHub</b> | <b>GitHub Actions</b> | <b>AWS CI/CD Services</b> | <b>ArgoCD</b></li>
 </p>
 
 ###
