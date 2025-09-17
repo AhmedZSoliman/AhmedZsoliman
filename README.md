@@ -7,9 +7,8 @@
 </li> 
 </p>
 <p>
-     <li>💻 I have a passion for technology through applying various side projects that use a variety of technologies,
-  &nbsp;&nbsp;&nbsp; which help me expand my knowledge and stay up to date with the latest trends in DevOps  technologies and practices. </li>
- 
+<li>💻 I have a passion for technology through applying various side projects that use a variety of technologies,which help me expand my knowledge and stay up to date with the latest trends in DevOps  technologies and practices.
+</li>
 </p>
   <li>💬 Ask me about anything, and I will be happy to help.</li>
 </p>
