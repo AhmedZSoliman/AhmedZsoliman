@@ -7,12 +7,10 @@
 </li> 
 </p>
 <p>
-  <p>
-    <li>💻 I have a passion for technology through applying various side projects that use a variety of technologies,</p>
-  <P>&nbsp;&nbsp;&nbsp; which help me expand my knowledge and stay up to date with the latest trends in DevOps  technologies and practices. </li>
-</P>
+     <li>💻 I have a passion for technology through applying various side projects that use a variety of technologies,
+  &nbsp;&nbsp;&nbsp; which help me expand my knowledge and stay up to date with the latest trends in DevOps  technologies and practices. </li>
+ 
 </p>
-<p>
   <li>💬 Ask me about anything, and I will be happy to help.</li>
 </p>
 <h3>🚀 Review DevOps End-to-End Projects:</h3>
@@ -32,8 +30,8 @@
 <h3 align="left"> 🛠️ Languages and Tools:</h3>
 
 <p align="left">
-  <li>
-  <b>Linux</b> | <b>Bash</b> | <b>Python</b> | <b>Ansible</b> | <b>Docker</b> | <b>Kubernetes</b> | <b>AWS</b> | <b>AWS CLI</b> | <b>Terraform</b> | <b>Git, GitHub</b> | <b>GitHub Actions</b> | <b>AWS CI/CD Services</b> | <b>ArgoCD</b></li>
+  
+  <b>Linux</b> | <b>Bash</b> | <b>Python</b> | <b>Ansible</b> | <b>Docker</b> | <b>Kubernetes</b> | <b>AWS</b> | <b>AWS CLI</b> | <b>Terraform</b> | <b>Git, GitHub</b> | <b>GitHub Actions</b> | <b>AWS CI/CD Services</b> | <b>ArgoCD</b> 
 </p>
 
 ###
