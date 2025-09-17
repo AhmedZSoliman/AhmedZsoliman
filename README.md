@@ -12,33 +12,11 @@
 <p>
   <li>💬 Ask me about anything, and I will be happy to help.</li>
 </p>
-
-
-
-
-<p>
-  <li>🏃‍♂️I am passionate about DevOps, Cloud Infrastructure and Linux System Administartion.
-</li> 
-</p>
-<p>
-<li>💻 I have a passion for technology through applying various side projects that use a variety of technologies,
-</li>
-  <li>
-    which help me expand my knowledge and stay up to date with the latest trends in DevOps  technologies and practices.
-  </li>
-</p>
-  <li>💬 Ask me about anything, and I will be happy to help.</li>
-</p>
 <h3>🚀 Review DevOps End-to-End Projects:</h3>
 <ul>
   <li>📃 <a href="https://github.com/yourusername/Data-Migration-Project" target="_blank"> Project1</a></li>
   <li>📃 <a href="https://github.com/emar137/Automating-Virtual-Machine-Backups-Replication-To-An-Amazon-S3-Bucket" target="_blank">Automating-Virtual-Machine-Backups-Replication-To-An-Amazon-S3-Bucket</a></li>
   </ul>
-
-
-
-
-
 
 </p>
 <p align="left">
