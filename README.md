@@ -6,11 +6,7 @@
 <p>
   <li>🏃‍♂️ I’m passionate about DevOps, Cloud Infrastructure, and Linux System Administration.</li>
 </p>
-<p>
-  <li>💻 I have a passion for technology through applying various side projects that use a variety of technologies, which help me &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;expand my knowledge and stay up to date with the latest trends in DevOps technologies and practices.</li>
-</p>
 
-<p>
   <li>💬 Ask me about anything, and I will be happy to help.</li>
 </p>
 <h3>🚀 Review DevOps End-to-End Projects:</h3>
